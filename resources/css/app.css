@@ -1,5 +1,5 @@
 .register-form {
-    max-width: 400px;
+    max-width: 420px;
     margin: 50px auto;
 }
 .register-form h2 {
@@ -10,6 +10,14 @@
 }
 .register-form button {
     width: 100%;
+    background: linear-gradient(to bottom, #fceabb, #f8b500);
+    border: 1px solid #585858;
+    border-radius: 4px;
+    padding: 5px 20px;
+    color: #444444;
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 10px;
 }
 .register-form .logo{
     text-align: center;
@@ -23,4 +31,17 @@
 footer p{
     font-size: 8px;
     line-height: 0px;
+}
+.policies{
+    font-size: 13px;
+}
+hr{
+    border:none;
+    height: 20px;
+ 	width: 90%;
+	height: 50px;
+	margin-top: 0;
+	border-bottom: 0px solid #1f1209;
+	box-shadow: 0 20px 10px -22px #333;
+    margin: -35px auto 30px;
 }
