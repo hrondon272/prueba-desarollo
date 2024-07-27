@@ -20,3 +20,7 @@
 .register-form label{
     font-weight: bold;
 }
+footer p{
+    font-size: 8px;
+    line-height: 0px;
+}
