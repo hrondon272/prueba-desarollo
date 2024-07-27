@@ -29,6 +29,7 @@ $('#registerForm').on('submit', function(event) {
             // Se cierra el indicador de carga
             Swal.close();
 
+            $('#registerForm')[0].reset();
             Swal.fire({
                 title: `Registro exitoso!`,
                 text: response.statusText,
