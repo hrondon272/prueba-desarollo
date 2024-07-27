@@ -1,0 +1,22 @@
+.register-form {
+    max-width: 400px;
+    margin: 50px auto;
+}
+.register-form h2 {
+    margin-bottom: 20px;
+}
+.register-form input {
+    margin-bottom: 10px;
+}
+.register-form button {
+    width: 100%;
+}
+.register-form .logo{
+    text-align: center;
+}
+.register-form .logo img{
+    width: 50%;
+}
+.register-form label{
+    font-weight: bold;
+}
